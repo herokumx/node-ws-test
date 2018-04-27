@@ -1,0 +1,15 @@
+{
+  "name": "Node",
+  "description": "A web-based frontend to your Heroku Private Spaces Postgres",
+  "website": "https://herokumx.github.io/pgweb/",
+  "repository": "https://github.com/herokumx/node-ws-test",
+  "logo": "https://raw.githubusercontent.com/sosedoff/pgweb/master/static/img/icon.png",
+  "success_url": "/",
+  "keywords": [
+    "postgres",
+    "database",
+    "golang",
+    "frontend"
+  ]
+  }
+}
